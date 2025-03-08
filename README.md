@@ -1,5 +1,5 @@
-# MSF-practica1
-Practica 1: Diseño de Controladores
+
+Practica 1: Diseño de controladores
 # Modelado de Sistemas Fisiológicos. Práctica 1: Diseño de controladores [GARCIATOLEDO20210787]
 
 ## Autor
